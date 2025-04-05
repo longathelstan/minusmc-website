@@ -93,7 +93,7 @@
     </Heading>
 
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 md:px-8">
-      <div class="bg-white rounded-lg shadow-md active:-translate-y-4 hover:shadow-lg transition-shadow-transform-mix hover:-translate-y-1 flex items-center p-4 cursor-pointer" on:click={() => window.location.href='https://minusbounce.lol'}>
+      <div class="bg-white rounded-lg shadow-md active:-translate-y-4 hover:shadow-lg transition-shadow-transform-mix hover:-translate-y-1 flex items-center p-4 cursor-pointer" on:click={() => window.location.href='https://client.minusmc.xyz'}>
         <Img src="{`${base}/minusbounce.png`}" class="h-32 object-cover rounded-lg transition-transform transform hover:scale-105" alt="MinusBounce" />
         <div class="ml-6">
           <Heading tag="h3" class="font-bold text-gray-800 mb-2">MinusBounce</Heading>
